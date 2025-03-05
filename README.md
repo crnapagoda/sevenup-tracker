@@ -1,5 +1,5 @@
 # SevenUpTracker
-![home screen](assets/images/appprev(3).jpg)
+![home screen](assets/images/appscreenshots.png)
 
 **SevenUpTracker** is a mobile application developed using React Native and Firebase that allows users to track the game of SevenUp.
 
